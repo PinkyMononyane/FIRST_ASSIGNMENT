@@ -1,0 +1,16 @@
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembers.exe.config
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembers.exe
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembers.pdb
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembers.xml
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.vbprojResolveAssemblyReference.cache
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.CLUBMEMBERS.resources
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.Form1.resources
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.Resources.resources
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.SIGNUP.resources
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.vbproj.GenerateResource.Cache
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.exe
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.xml
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.pdb
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembersDB.mdf
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\bin\Debug\ClubMembersDB_log.ldf
+C:\Users\DGSD\Desktop\ASSIGNMENT\ClubMembers\ClubMembers\obj\Debug\ClubMembers.AboutBox1.resources
